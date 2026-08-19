@@ -1,6 +1,7 @@
 # HMD Global/Nokia
 
-- Verdict: **🍅 Pretty bad!**
+- Verdict: **🍅 Pretty bad, almost "Avoid"!**
+- Verdict (Unisoc): ⛔ Avoid at any and all costs!
 
 ## HMD
 
