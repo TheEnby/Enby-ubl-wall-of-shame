@@ -4,7 +4,7 @@
 >
 > 🧹 There should be a guide to running code with the debuggable apk.
 
-- Verdict: **⛔ Avoid!**
+- Verdict: **🍅 Pretty bad!**
 
 ## Realme
 
