@@ -1,6 +1,6 @@
 # HMD Global/Nokia
 
-- Verdict: **⛔ Avoid!**
+- Verdict: **🍅 Pretty bad!**
 
 ## HMD
 
@@ -16,7 +16,7 @@ Models released before early 2019 can request unlocking using Hikari Calyx's uno
 
 #### Prototype ABLs
 
-Hikari Calyx has a repo with prototype ABLs for some other models. [fih-firmware.hikaricalyx.com][hikari-abl]
+Hikari Calyx has a repo with prototype (engineering) ABLs for some other models. [fih-firmware.hikaricalyx.com][hikari-abl]
 
 #### HMD Device Kit
 
