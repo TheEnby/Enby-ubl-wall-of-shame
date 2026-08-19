@@ -1,6 +1,6 @@
 # LG
 
-- Verdict: **🍅 Pretty bad!**
+- Verdict: **🍅Pretty bad, almost "Avoid"!**
 - Verdict: **⛔ Avoid at any and all costs!** (Unisoc)
 - Verdict (Watches): **ℹ️ "Safe for now" :trollface:**
 
